@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/author/user1/feed/" rel="self" type="application/rss+xml" />
 	<link>https://user365a.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Tue, 14 Sep 2021 15:32:55 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 15 Sep 2021 04:01:39 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,7 +20,7 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
-		<title>DU LỊCH PHÚ QUỐC</title>
+		<title>Du Lịch Phú Quốc</title>
 		<link>https://user365a.github.io/mywordpress/du-lich-phu-quoc/</link>
 					<comments>https://user365a.github.io/mywordpress/du-lich-phu-quoc/#respond</comments>
 		
