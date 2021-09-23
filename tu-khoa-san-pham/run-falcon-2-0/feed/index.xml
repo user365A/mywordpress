@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>run-falcon-2.0 &#8211; My wordpress</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/run-falcon-2-0/feed/" rel="self" type="application/rss+xml" />
+	<link>https://user365a.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Wed, 22 Sep 2021 16:48:28 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Giày-run-falcon-2.0</title>
+		<link>https://user365a.github.io/mywordpress/sản%20phẩm/giay-run-falcon-2-0/</link>
+					<comments>https://user365a.github.io/mywordpress/sản%20phẩm/giay-run-falcon-2-0/#respond</comments>
+		
+		<dc:creator><![CDATA[AnhTai]]></dc:creator>
+		<pubDate>Wed, 22 Sep 2021 16:48:28 +0000</pubDate>
+				<guid isPermaLink="false">https://user365a.github.io/mywordpress/?post_type=product&#038;p=281</guid>
+
+					<description><![CDATA[Khi mang đôi giày chạy bộ này, bạn sẵn sàng hẹn hò cafe cùng bè bạn ngay cả khi đã chạy một vòng công viên. Thân giày bằng vải lưới siêu thoáng khí mang đến cho bạn cảm giác thoải mái suốt ngày dài. Đế ngoài bằng cao su bền bỉ là bệ đỡ vững chắc cho lịch trình bận rộn của bạn]]></description>
+										<content:encoded><![CDATA[<p>Giày thể thao</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://user365a.github.io/mywordpress/sản%20phẩm/giay-run-falcon-2-0/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

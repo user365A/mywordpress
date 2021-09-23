@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ultraboost-21-tokyo &#8211; My wordpress</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/ultraboost-21-tokyo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://user365a.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Wed, 22 Sep 2021 16:36:38 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Giày-chạy-bộ-ultraboost-21-tokyo</title>
+		<link>https://user365a.github.io/mywordpress/sản%20phẩm/giay-chay-bo-ultraboost-21-tokyo/</link>
+					<comments>https://user365a.github.io/mywordpress/sản%20phẩm/giay-chay-bo-ultraboost-21-tokyo/#respond</comments>
+		
+		<dc:creator><![CDATA[AnhTai]]></dc:creator>
+		<pubDate>Wed, 22 Sep 2021 16:15:50 +0000</pubDate>
+				<guid isPermaLink="false">https://user365a.github.io/mywordpress/?post_type=product&#038;p=269</guid>
+
+					<description><![CDATA[<ul>
+ 	<li>Giày chạy bộ</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p>Đôi giày adidas Ultraboost 21 này cho cảm giác siêu thoải mái, giúp bạn nhẹ nhàng tăng cự ly và cải thiện split time. Bên cạnh đế giữa được bổ sung lượng Boost, giày còn có hệ thống Linear Energy Push tiếp thêm năng lượng cho từng bước chân.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://user365a.github.io/mywordpress/sản%20phẩm/giay-chay-bo-ultraboost-21-tokyo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

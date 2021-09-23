@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>co-thap-forum &#8211; My wordpress</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/co-thap-forum/feed/" rel="self" type="application/rss+xml" />
+	<link>https://user365a.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Wed, 22 Sep 2021 16:36:59 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Giày-cổ-thấp-forum</title>
+		<link>https://user365a.github.io/mywordpress/sản%20phẩm/giay-co-thap-forum/</link>
+					<comments>https://user365a.github.io/mywordpress/sản%20phẩm/giay-co-thap-forum/#respond</comments>
+		
+		<dc:creator><![CDATA[AnhTai]]></dc:creator>
+		<pubDate>Wed, 22 Sep 2021 16:35:58 +0000</pubDate>
+				<guid isPermaLink="false">https://user365a.github.io/mywordpress/?post_type=product&#038;p=277</guid>
+
+					<description><![CDATA[Không chỉ là một đôi giày, mà chính là một tuyên ngôn. Dòng adidas Forum ra mắt năm 1984 và cực kỳ được ưa chuộng cả trên sân bóng rổ lẫn trong giới âm nhạc. Mẫu mới của dòng giày kinh điển này tái hiện tinh thần thập niên 80, nguồn năng lượng bùng nổ trên sân đấu cũng như thiết kế quai cổ chân chữ X đặc trưng, kết tinh thành phiên bản cổ thấp đậm chất đường phố.]]></description>
+										<content:encoded><![CDATA[<p>Giày thể thao</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://user365a.github.io/mywordpress/sản%20phẩm/giay-co-thap-forum/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

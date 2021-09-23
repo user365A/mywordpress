@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>short-graphic-symbol &#8211; My wordpress</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/short-graphic-symbol/feed/" rel="self" type="application/rss+xml" />
+	<link>https://user365a.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Thu, 23 Sep 2021 09:48:42 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Quần-short-graphic-symbol</title>
+		<link>https://user365a.github.io/mywordpress/sản%20phẩm/quan-short-graphic-symbol/</link>
+					<comments>https://user365a.github.io/mywordpress/sản%20phẩm/quan-short-graphic-symbol/#respond</comments>
+		
+		<dc:creator><![CDATA[AnhTai]]></dc:creator>
+		<pubDate>Thu, 23 Sep 2021 09:38:52 +0000</pubDate>
+				<guid isPermaLink="false">https://user365a.github.io/mywordpress/?post_type=product&#038;p=332</guid>
+
+					<description><![CDATA[Thực hay ảo? Hai thế giới ấy hội tụ trên chiếc quần short adidas này. Hãy diện chiếc quần này ngoài đời thực và tận hưởng cảm giác thoải mái đến từ chất vải cotton mềm mại đồng thời khoe họa tiết graphic lấy cảm hứng từ thế giới ảo. Mở điện thoại gọi video, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Thực hay ảo? Hai thế giới ấy hội tụ trên chiếc quần short adidas này. Hãy diện chiếc quần này ngoài đời thực và tận hưởng cảm giác thoải mái đến từ chất vải cotton mềm mại đồng thời khoe họa tiết graphic lấy cảm hứng từ thế giới ảo. Mở điện thoại gọi video, chơi game yêu thích hay hẹn hò cafe với hội bạn. Tất cả đều kết nối với nhau. Khi mua các sản phẩm cotton từ chúng tôi là bạn đang ủng hộ ngành trồng bông bền vững hơn.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://user365a.github.io/mywordpress/sản%20phẩm/quan-short-graphic-symbol/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
