@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>adidas-4d-futurecraft &#8211; My wordpress</title>
+	<title>adidas-4d-futurecraft &#8211; ANHTAISHOP</title>
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/adidas-4d-futurecraft/feed/" rel="self" type="application/rss+xml" />
 	<link>https://user365a.github.io/mywordpress</link>
-	<description>Một trang web mới sử dụng WordPress</description>
+	<description>Chuyên cung cấp đồ thể thao chính hãng uy tín và chất lượng</description>
 	<lastBuildDate>Thu, 23 Sep 2021 08:11:44 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Giày-adidas-4d-futurecraft</title>
-		<link>https://user365a.github.io/mywordpress/sản%20phẩm/giay-adidas-4d-futurecraft/</link>
-					<comments>https://user365a.github.io/mywordpress/sản%20phẩm/giay-adidas-4d-futurecraft/#respond</comments>
+		<link>https://user365a.github.io/mywordpress/product/giay-adidas-4d-futurecraft/</link>
+					<comments>https://user365a.github.io/mywordpress/product/giay-adidas-4d-futurecraft/#respond</comments>
 		
 		<dc:creator><![CDATA[AnhTai]]></dc:creator>
 		<pubDate>Thu, 23 Sep 2021 08:01:16 +0000</pubDate>
@@ -32,7 +32,7 @@
 										<content:encoded><![CDATA[<p>Chạy bộ chính là tập trung vào hiện tại. Đôi giày chạy bộ adidas này dẫn dắt bạn nhanh chóng tới tương lai. Đế giữa adidas 4D đột phá dựa trên dữ liệu chạy bộ thu thập suốt 17 năm và công nghệ gia công kỹ thuật số, giúp tăng cường thoải mái cho từng sải bước. Thân giày adidas Primeknit đảm bảo cảm giác ôm chắc chắn, thích ứng theo bàn chân trong suốt chu kỳ của bước đi.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://user365a.github.io/mywordpress/sản%20phẩm/giay-adidas-4d-futurecraft/feed/</wfw:commentRss>
+					<wfw:commentRss>https://user365a.github.io/mywordpress/product/giay-adidas-4d-futurecraft/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>AnhTai &#8211; My wordpress</title>
+	<title>AnhTai &#8211; ANHTAISHOP</title>
 	<atom:link href="http://localhost/myproject/wordpress/author/user1/feed/" rel="self" type="application/rss+xml" />
 	<link>https://user365a.github.io/mywordpress</link>
-	<description>Một trang web mới sử dụng WordPress</description>
+	<description>Chuyên cung cấp đồ thể thao chính hãng uy tín và chất lượng</description>
 	<lastBuildDate>Wed, 15 Sep 2021 04:01:39 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>

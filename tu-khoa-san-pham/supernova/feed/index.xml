@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>supernova &#8211; My wordpress</title>
+	<title>supernova &#8211; ANHTAISHOP</title>
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/supernova/feed/" rel="self" type="application/rss+xml" />
 	<link>https://user365a.github.io/mywordpress</link>
-	<description>Một trang web mới sử dụng WordPress</description>
+	<description>Chuyên cung cấp đồ thể thao chính hãng uy tín và chất lượng</description>
 	<lastBuildDate>Thu, 23 Sep 2021 07:47:18 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.8.1</generator>
 	<item>
 		<title>Giày-supernova</title>
-		<link>https://user365a.github.io/mywordpress/sản%20phẩm/giay-supernova/</link>
-					<comments>https://user365a.github.io/mywordpress/sản%20phẩm/giay-supernova/#respond</comments>
+		<link>https://user365a.github.io/mywordpress/product/giay-supernova/</link>
+					<comments>https://user365a.github.io/mywordpress/product/giay-supernova/#respond</comments>
 		
 		<dc:creator><![CDATA[AnhTai]]></dc:creator>
 		<pubDate>Thu, 23 Sep 2021 07:47:18 +0000</pubDate>
@@ -32,7 +32,7 @@
 										<content:encoded><![CDATA[<p>Buổi chạy của bạn bắt đầu trước cả giây phút bạn sải bước trên đường. Với niềm tin, mục tiêu hay khao khát đạt được phong độ tốt nhất. Hãy mang đôi giày chạy bộ adidas này và bắt đầu buổi chạy. Các yếu tố hiệu năng cao như lớp đệm đàn hồi và lớp phủ ngoài nâng đỡ mang đến sự thoải mái cho sải bước của bạn. Thân giày thoáng khí, không đường may giúp đôi chân bạn luôn thoáng mát kể cả khi tăng tốc.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://user365a.github.io/mywordpress/sản%20phẩm/giay-supernova/feed/</wfw:commentRss>
+					<wfw:commentRss>https://user365a.github.io/mywordpress/product/giay-supernova/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
