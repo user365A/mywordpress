@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>lotgiay &#8211; ANHTAISHOP</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/lotgiay/feed/" rel="self" type="application/rss+xml" />
+	<link>https://user365a.github.io/mywordpress</link>
+	<description>Chuyên cung cấp đồ thể thao chính hãng uy tín và chất lượng</description>
+	<lastBuildDate>Wed, 29 Sep 2021 10:23:39 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Đế lót giày Yonex AC 194EX</title>
+		<link>https://user365a.github.io/mywordpress/product/de-lot-giay-yonex-ac-194ex/</link>
+					<comments>https://user365a.github.io/mywordpress/product/de-lot-giay-yonex-ac-194ex/#respond</comments>
+		
+		<dc:creator><![CDATA[AnhTai]]></dc:creator>
+		<pubDate>Wed, 29 Sep 2021 09:55:24 +0000</pubDate>
+				<guid isPermaLink="false">https://user365a.github.io/mywordpress/?post_type=product&#038;p=398</guid>
+
+					<description><![CDATA[Yonex AC 194EX là mẫu sản phẩm lót giày cao cấp đến từ thương hiệu cầu lông hàng đầu thế giới Yonex, nổi trội về độ êm ái hơn rất nhiều so với lót đế thông thường hứa hẹn sẽ mang đến cho bạn những giờ phút chơi cầu thoải mái nhất.]]></description>
+										<content:encoded><![CDATA[<p>Yonex AC 194EX là mẫu sản phẩm lót giày cao cấp đến từ thương hiệu cầu lông hàng đầu thế giới Yonex, nổi trội về độ êm ái hơn rất nhiều so với lót đế thông thường hứa hẹn sẽ mang đến cho bạn những giờ phút chơi cầu thoải mái nhất.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://user365a.github.io/mywordpress/product/de-lot-giay-yonex-ac-194ex/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
